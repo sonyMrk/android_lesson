@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EduNavigation</string>
+    <string name="jojo_stardust_crusaders">JOJO Stardust Crusaders</string>
+    <string name="banner">Banner</string>
+    <string name="poster">Poster</string>
+    <string name="hirohiko_araki">Hirohiko Araki</string>
+    <string name="director">Director:</string>
+    <string name="desc">In 1983, DIO, the vampire enemy of Jonathan Joestar which has possessed Jonathan\'s body, emerges from the bottom of the Atlantic Ocean. As DIO develops a manifestation of life energy known as a Stand, Jonathan\'s descendants Joseph Joestar, Jotaro Kujo, and Holly Kujo also gain Stands. In 1987, Holly cannot control her Stand and is estimated to have fifty days left to live. Jotaro, Joseph, and fellow Stand users Muhammad Avdol and Noriyaki Kakyoin travel from Japan to Egypt to find and kill DIO, which will free Holly. Because they are being targeted by a number of Stand user assassins, the group cannot travel to Egypt by commercial plane. The group is later joined by Jean Pierre Polnareff, a former assassin of DIO who discovers that DIO is employing the murderer of Polnareff\'s sister, along with the Stand user dog Iggy. Aided by Kakyoin, who reveals the nature of DIO\'s time-stopping Stand The World in his last moments, Jotaro kills DIO in Egypt, allowing Holly to recover.</string>
+    <string name="actors">Actors</string>
+    <string name="jotaro_kujo">Jotaro Kujo</string>
+    <string name="joseph_joestar">Joseph Joestar</string>
+    <string name="noriaki_kakyoin">Noriaki Kakyoin</string>
+    <string name="mohammed_abdul">Mohammed Abdul</string>
+    <string name="jean_pierre_polnareff">Jean Pierre Polnareff</string>
+    <string name="iggy">Iggy</string>
+    <string name="dio">DIO</string>
+    <string name="like">Like</string>
+    <string name="watch">Watch</string>
+    <string name="share">Share</string>
+    <string name="roll">Roll</string>
+</resources>
