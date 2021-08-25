@@ -17,4 +17,9 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, Second_Page_Dice_Roller::class.java)
         startActivity(intent)
     }
+
+    fun toRandom(view: View){
+        val intent = Intent(this, Random_activity::class.java)
+        startActivity(intent)
+    }
 }

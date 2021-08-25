@@ -18,4 +18,11 @@
     <string name="watch">Watch</string>
     <string name="share">Share</string>
     <string name="roll">Roll</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="first_number">First number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="second_number">Second number</string>
+    <string name="random">Random</string>
+    <string name="results">Results</string>
+    <string name="dice">Dice</string>
 </resources>
