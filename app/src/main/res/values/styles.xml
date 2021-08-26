@@ -9,4 +9,12 @@
 
     </style>
 
+    <style name="nameStyle">
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:layout_marginTop">@dimen/margin_name</item>
+    </style>
+
 </resources>

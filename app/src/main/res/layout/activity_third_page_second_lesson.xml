@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".third_Page_Second_lesson">
+
+        <TextView
+            android:id="@+id/name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            android:textAlignment="center"
+            style="@style/nameStyle" />
+
+        <EditText
+            android:id="@+id/nickname_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            style="@style/nameStyle"
+            android:textAlignment="center"
+            android:hint="@string/what_is_your_nickname"
+            android:paddingStart="@dimen/paddingLeft"
+            android:paddingEnd="@dimen/paddingEnd" />
+
+        <Button
+            android:id="@+id/done_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/done"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:fontFamily="@font/montserrat"
+            android:layout_marginTop="8dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="@dimen/paddingLeft"
+            android:layout_marginEnd="@dimen/paddingEnd" />
+
+        <TextView
+            android:id="@+id/nickname_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/nameStyle"
+            android:gravity="center_horizontal"
+            android:visibility="gone"
+            android:text="" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/yellow_star"
+            tools:srcCompat="@android:drawable/btn_star_big_on" />
+
+        <ScrollView
+            android:id="@+id/bio_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/nameStyle"
+                android:text="@string/bio"
+                android:paddingStart="@dimen/paddingLeft"
+                android:paddingEnd="@dimen/paddingEnd"
+                android:lineSpacingMultiplier="1.2" />
+
+        </ScrollView>
+
+    </LinearLayout>

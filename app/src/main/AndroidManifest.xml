@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EduNavigation">
         <activity
+            android:name=".third_Page_Second_lesson"
+            android:exported="true" />
+        <activity
             android:name=".Random_activity"
             android:exported="true" />
         <activity

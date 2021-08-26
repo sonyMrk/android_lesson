@@ -25,4 +25,10 @@
     <string name="random">Random</string>
     <string name="results">Results</string>
     <string name="dice">Dice</string>
+    <string name="name">Murat Kaparov</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Beginning in the eighth century B.C., Ancient Rome grew from a small town on central Italy’s Tiber River into an empire that at its peak encompassed most of continental Europe, Britain, much of western Asia, northern Africa and the Mediterranean islands. Among the many legacies of Roman dominance are the widespread use of the Romance languages (Italian, French, Spanish, Portuguese and Romanian) derived from Latin, the modern Western alphabet and calendar and the emergence of Christianity as a major world religion. After 450 years as a republic, Rome became an empire in the wake of Julius Caesar’s rise and fall in the first century B.C. The long and triumphant reign of its first emperor, Augustus, began a golden age of peace and prosperity; by contrast, the Roman Empire’s decline and fall by the fifth century A.D. was one of the most dramatic implosions in the history of human civilization.</string>
+    <string name="what_is_your_nickname">What is Your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
