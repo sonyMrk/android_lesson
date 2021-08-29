@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="myName"
+            type="com.example.edunavigation.MyName" />
+    </data>
+
     <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -46,7 +54,7 @@
             style="@style/nameStyle"
             android:gravity="center_horizontal"
             android:visibility="gone"
-            android:text="" />
+            android:text="@={myName.nickname}" />
 
         <ImageView
             android:id="@+id/imageView"
@@ -70,5 +78,5 @@
                 android:lineSpacingMultiplier="1.2" />
 
         </ScrollView>
-
     </LinearLayout>
+</layout>
